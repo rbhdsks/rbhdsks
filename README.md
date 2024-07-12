@@ -1,39 +1,50 @@
-# Hello, I'm Nitesh Kumar Shah! 
+# Hi, I'm Nitesh Kumar Shah 👋
 
-I am an Information Technology student specializing in Business Informatics at the Indian Institute of Information Technology, Allahabad, with a knack for blending the technical intricacies of Artificial Intelligence with its burgeoning business applications.
+## About Me
 
-## 📈 Academics
-- Pursuing B.Tech in Information Technology with a specialization in Business Informatics at IIIT Allahabad.
-- Key Courses: Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks, Business Process Modelling, Data Mining.
+I'm a Data Science Intern at Tech Mahindra's Maker's Lab and a UG Student Fellow at C3iHub, IIT Kanpur. I am currently pursuing my B.Tech in Information Technology with a specialization in Business Informatics at IIIT Allahabad.
 
-## 💼 Professional Journey
-- Actively contributing to the IoT Security research lab at IIITA, in collaboration with the C3i Hub IIT Kanpur.
-- Paid fellowship focussing on security vulnerabilities within Bluetooth devices.
+- 📚 **Education**: 
+  - **B.Tech in Information Technology - Business Informatics** | Indian Institute of Information Technology, Allahabad (Expected Graduation: June 2025)
 
-## 💻 Technical Skills
-- Programming Languages: C/C++, Python, JavaScript, SQL.
-- Frameworks and Libraries: Bootstrap, ReactJS (Intermediate), Spring Boot (Intermediate).
-- Utilities and DBs: Git, Bash, MongoDB, Firebase, MySQL.
+- 📫 **How to reach me**:
+  - Email: [sirali.nitesh@gmail.com](mailto:sirali.nitesh@gmail.com)
+  - LinkedIn: [linkedin.com/in/niteshkumarshah](https://linkedin.com/in/niteshkumarshah/)
+  - GitHub: [github.com/rbhdsks](https://github.com/rbhdsks)
 
-## 🛠️ Projects
-From creating web-based solutions like a grievance management system to a peer-to-peer transfer network, I have been involved in projects that require a deep understanding of both front-end and back-end technologies. These experiences have honed my skills in PHP, MySQL, HTML, CSS, as well as in the MERN stack.
+## Experience
 
-##  Scholastic Achievements
-- My Surveillance bot project was selected by NewGenIEDC-IIITA, aimed at serving the Indian Army.
-- Secured First Position in the Electrocombat Robotics contest under the Tesla- Electronics society of IIITA.
-- Represented Nepal in the MILSET Expo Sciences Asia - Dubai’22.
+- **Data Science Intern** | Tech Mahindra | May 2024 - Ongoing
+  - Worked on challenges in extreme weather conditions, low visibility, and night-time scenarios, with applications in autonomous driving, surveillance, and industrial inspection.
+  - Experienced in diffusion modeling methods for unpaired image-to-image translation.
 
-## Interests
-I am deeply fascinated by the intersection of technology and business, specifically how Artificial Intelligence can drive the next wave of business innovation. I am currently delving into the world of Competitive Programming to sharpen my problem-solving skills.
+- **UG Student Fellowship** | C3iHub, IIT Kanpur | Nov 2023 - Ongoing
+  - Identified Bluetooth communication packets with encryption using the BT-HCI protocols and their corresponding op-codes via Pyshark.
+  - Developed a Python script for pairing and processing the packets and conducted extensive security audits on different Bluetooth devices.
 
-## I’m currently learning...
-...Competitive Programming to further enhance my algorithmic and coding skills which are critical in both software development and AI domains.
+## Projects
 
-## 🤝 Connect with me:
-- LinkedIn: [linkedin.com/in/niteshkumarshah](https://www.linkedin.com/in/niteshkumarshah)
-- Personal Website: [www.niteshkumarshah.com.np](http://www.niteshkumarshah.com.np)
+- **Indian Army Project** | Human-Following Bot | Sept 2023 - May 2024
+  - Utilized GANs for data augmentation to create a diverse dataset for training the YOLO v7 model, enhancing its accuracy and robustness.
+  - Implemented YOLO v7 for real-time object detection with high accuracy and speed.
 
-## 📫 How to reach me:
-You can reach out to me on my LinkedIn for professional queries or collaborations in tech and business strategy within the AI landscape.
+- **CollabCam** | Online Interview Platform | June 2023 - Aug 2023
+  - Developed a full-stack project for online interviews with P2P connection, enabling seamless and efficient interaction between interviewers and interviewees.
 
-Thank you for visiting my profile! Let's connect and build together.
+## Publications
+
+- **Enhancement of Stock Market Strategies with Sentiment Analysis and Stress Indices** | Best Paper Award: International Conference of Behavioural Finance'24
+  - S. Pandey, Dr. Ranjit Singh, Nitesh Kr. Shah
+
+## Skills
+
+- **Programming Languages**: Python (NumPy, Pandas, PyTorch, Scikit-learn, Matplotlib, Tableau), C++, SQL, HTML/CSS, JavaScript, ReactJS
+- **Tools & Fundamentals**: Git, Linux, Shell (Bash/Zsh)
+
+## Let's Connect!
+
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/niteshkumarshah/) or check out my projects on [GitHub](https://github.com/rbhdsks).
+
+---
+
+**Nitesh Kumar Shah**
