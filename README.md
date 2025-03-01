@@ -1,84 +1,73 @@
-# 🦸‍♂️ About Me:
+<h1 align="center">Hey, I'm Nitesh! 😎</h1>
 
-Hi 👋! I'm **Nitesh Kumar Shah**
-
-- 🎓 Pursuing B.Tech in Information Technology - Business Informatics at IIIT Allahabad (Expected Graduation: June 2025)
-- 💻 Data Science Intern at Tech Mahindra's Maker's Lab
-- 🔬 UG Student Fellow at C3iHub, IIT Kanpur
-- 📫 Reach me at [sirali.nitesh@gmail.com](mailto:sirali.nitesh@gmail.com)
-
-I'm passionate about Data Science, Machine Learning, and Web Development. Currently, I'm working on projects related to Bluetooth security and autonomous driving technology.
+<p align="center">
+  <b>B.Tech (IT-Business Informatics)</b> @ IIIT Allahabad (Grad 2025) <br>
+  <b>Quant ML Intern</b> @ Finstrats Research | <b>Data Science Intern</b> @ Tech Mahindra | <b>UG Fellow</b> @ C3iHub, IIT Kanpur
+</p>
 
 ---
 
-## 🌐 Socials:
+<details>
+  <summary>🌐 <b>Socials & Contact</b></summary>
+  <p>
+    <a href="https://github.com/rbhdsks">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://linkedin.com/in/niteshkumarshah/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <br/>
+    <a href="mailto:sirali.nitesh@gmail.com">sirali.nitesh@gmail.com</a>
+  </p>
+</details>
 
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/rbhdsks)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niteshkumarshah/)
+<details>
+  <summary>⚡ <b>Tech Stack & Tools</b></summary>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <br/>
+    <b>Also experienced with:</b> RAG, CNN models, GANs
+  </p>
+</details>
 
----
+<details>
+  <summary>💡 <b>Experience & Projects</b></summary>
+  <ul>
+    <li>🔢 <b>Quant ML Intern</b> @ Finstrats Research: applying ML-driven strategies in quantitative finance.</li>
+    <li>🔬 <b>Data Science Intern</b> @ Tech Mahindra: tackled extreme weather challenges, diffusion modeling & unpaired image-to-image translation.</li>
+    <li>🔒 <b>UG Fellow</b> @ C3iHub, IIT Kanpur: researched Bluetooth packet encryption (BT-HCI), Python scripts for security audits.</li>
+    <li>🤖 <b>Indian Army Project</b> (Human-Following Bot): used GANs + YOLOv7 for real-time detection.</li>
+    <li>💻 <b>CollabCam</b> (Online Interview Platform): built a P2P full-stack project.</li>
+  </ul>
+</details>
 
-## 🛠️ Tech Stack:
+<details>
+  <summary>🏆 <b>Publications</b></summary>
+  <ul>
+    <li><b>Enhancement of Stock Market Strategies with Sentiment Analysis and Stress Indices</b><br>
+      Best Paper Award @ International Conference of Behavioural Finance'24</li>
+    <li><b>SPIN Conference</b> – Paper on advanced ML for finance</li>
+    <li><b>CONFLUENCE</b> – Paper on deep learning and data-driven analysis</li>
+  </ul>
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📚 Experience:
-
-### Data Science Intern | Tech Mahindra
-**May 2024 - Ongoing**
-
-- Addressed challenges in extreme weather conditions, low visibility, and night-time scenarios.
-- Worked on applications in autonomous driving, surveillance, and industrial inspection.
-- Experienced in diffusion modeling methods for unpaired image-to-image translation.
-
-### UG Student Fellowship | C3iHub, IIT Kanpur
-**Nov 2023 - Ongoing**
-
-- Identified Bluetooth communication packets with encryption using BT-HCI protocols.
-- Developed Python scripts for pairing and processing packets, conducting extensive security audits.
-
----
-
-## 📂 Projects:
-
-### Indian Army Project | Human-Following Bot
-**Sept 2023 - May 2024**
-
-- Utilized GANs for data augmentation to create a diverse dataset for training YOLO v7.
-- Implemented YOLO v7 for real-time object detection with high accuracy and speed.
-
-### CollabCam | Online Interview Platform
-**June 2023 - Aug 2023**
-
-- Developed a full-stack project for online interviews with P2P connection.
-
----
-
-## 🏆 Publications:
-
-### Enhancement of Stock Market Strategies with Sentiment Analysis and Stress Indices
-**Best Paper Award: International Conference of Behavioural Finance'24**
-
-- S. Pandey, Dr. Ranjit Singh, Nitesh Kr. Shah
-
----
-
-## 📈 Stats:
-
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbhdsks&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbhdsks&layout=compact&theme=radical)
+<details>
+  <summary>📈 <b>GitHub Stats</b></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rbhdsks&show_icons=true&theme=radical" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhdsks&layout=compact&theme=radical" height="160"/>
+  </p>
+</details>
 
 ---
-
-**Nitesh Kumar Shah**
+<p align="center">
+  <i>“Striving to transform ideas into reality, one line of code at a time.”</i>
+</p>
