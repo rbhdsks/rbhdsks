@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Nitesh! 😎</h1>
+<h1 align="center">Hey, I'm Nitesh !!</h1>
 
 <p align="center">
-  <b>B.Tech (IT-Business Informatics)</b> @ IIIT Allahabad (Grad 2025) <br>
-  <b>Quant ML Intern</b> @ Finstrats Research | <b>Data Science Intern</b> @ Tech Mahindra | <b>UG Fellow</b> @ C3iHub, IIT Kanpur
+  <b>M.Tech(Data Science and AI)</b> @ IIT Madras | <b> B.Tech (IT-Business Informatics)</b> @ IIIT Allahabad (Grad 2025) <br>
+  <b>AI Architect Intern</b> @ Deep Intelligence, NSW, Sydney | <b>UG Fellow</b> @ C3iHub, IIT Kanpur
 </p>
 
 ---
@@ -41,6 +41,7 @@
 <details>
   <summary>💡 <b>Experience & Projects</b></summary>
   <ul>
+    <li>🔢 <b>AI Architect Intern</b> @ Deep Intelligence, NSW, Sydney: applying Agentic AI solution to Business problems</li>
     <li>🔢 <b>Quant ML Intern</b> @ Finstrats Research: applying ML-driven strategies in quantitative finance.</li>
     <li>🔬 <b>Data Science Intern</b> @ Tech Mahindra: tackled extreme weather challenges, diffusion modeling & unpaired image-to-image translation.</li>
     <li>🔒 <b>UG Fellow</b> @ C3iHub, IIT Kanpur: researched Bluetooth packet encryption (BT-HCI), Python scripts for security audits.</li>
