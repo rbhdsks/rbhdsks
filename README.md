@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>M.Tech(Data Science and AI)</b> @ IIT Madras | <b> B.Tech (IT-Business Informatics)</b> @ IIIT Allahabad (Grad 2025) <br>
-  <b>AI Architect Intern</b> @ Deep Intelligence, NSW, Sydney | <b>UG Fellow</b> @ C3iHub, IIT Kanpur
+  <b>AI Architect Intern</b> @ Deep Intelligence, NSW, Sydney 
 </p>
 
 ---
