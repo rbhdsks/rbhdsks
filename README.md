@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nitesh !!</h1>
 
 <p align="center">
-  <b>M.Tech(Data Science and AI)</b> @ IIT Madras | <b> B.Tech (IT-Business Informatics)</b> @ IIIT Allahabad (Grad 2025) <br>
+  <b>M.Tech(Data Science and AI)</b> @ IIT Madras (2025-2027) | <b> B.Tech (IT-Business Informatics)</b> @ IIIT Allahabad (Grad 2025) <br>
   <b>AI Architect Intern</b> @ Deep Intelligence, NSW, Sydney 
 </p>
 
@@ -53,10 +53,12 @@
 <details>
   <summary>🏆 <b>Publications</b></summary>
   <ul>
+    <li><b>RainGAN Kathmandu: A Generative Adversarial Networks approach for data augmentation on Kathmandu road dataset. (Accepted on IEEE Tencon, Malaysia' 2025</b>
     <li><b>Enhancement of Stock Market Strategies with Sentiment Analysis and Stress Indices</b><br>
       Best Paper Award @ International Conference of Behavioural Finance'24</li>
     <li><b>SPIN Conference</b> – Paper on advanced ML for finance</li>
     <li><b>CONFLUENCE</b> – Paper on deep learning and data-driven analysis</li>
+    
   </ul>
 </details>
 
