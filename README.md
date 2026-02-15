@@ -61,15 +61,6 @@
     
   </ul>
 </details>
-
-<details>
-  <summary>📈 <b>GitHub Stats</b></summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rbhdsks&show_icons=true&theme=radical" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhdsks&layout=compact&theme=radical" height="160"/>
-  </p>
-</details>
-
 ---
 <p align="center">
   <i>“Striving to transform ideas into reality, one line of code at a time.”</i>
