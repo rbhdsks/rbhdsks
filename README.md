@@ -40,11 +40,10 @@ Diffusion-based unpaired image translation and AI verifiability research.
 Bluetooth packet encryption analysis and IoT security auditing.
 
 ---
-
 ## Latest Pull Requests
 
-<!--START_SECTION:pull-requests-->
-<!--END_SECTION:pull-requests-->
+<!-- pull-requests:START -->
+<!-- pull-requests:END -->
 
 ---
 
