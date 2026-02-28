@@ -1,0 +1,17 @@
+name: Update Pull Requests
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "pull-requests"
+          feed_list: "https://github.com/rbhdsks.atom"
