@@ -47,6 +47,3 @@ Email: sirali.nitesh@gmail.com
 
 ---
 
-<p align="center">
-Building intelligent systems that are reliable, interpretable, and deployable.
-</p>
