@@ -39,13 +39,6 @@ Diffusion-based unpaired image translation and AI verifiability research.
 **C3iHub, IIT Kanpur**  
 Bluetooth packet encryption analysis and IoT security auditing.
 
----
-## Latest Pull Requests
-
-<!-- pull-requests:START -->
-<!-- pull-requests:END -->
-
----
 
 ## Contact
 
