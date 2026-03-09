@@ -11,7 +11,7 @@ AI Architect Intern, Deep Intelligence — Sydney
 ## Research Focus
 
 Generative Models • Medical Imaging • Financial AI  
-Reproducible ML Systems • AI for Infrastructure • Security Research
+
 
 ---
 
