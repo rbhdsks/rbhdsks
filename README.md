@@ -17,7 +17,7 @@ Generative Models • Medical Imaging • Financial AI
 
 ## Selected Work
 
-**RainGAN Kathmandu** — IEEE TENCON 2025 (Accepted)  
+**RainGAN Kathmandu** — IEEE TENCON 2025   
 Generative adversarial modeling for adverse weather augmentation.
 
 **Enhancing Stock Market Strategies with Sentiment & Stress Indices**  
