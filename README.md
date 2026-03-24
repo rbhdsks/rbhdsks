@@ -1,7 +1,7 @@
 <h1 align="center">Nitesh Kumar Shah</h1>
 
 <p align="center">
-Grad @ IIT MADRAS 
+Grad @ IIT MADRAS | 
 AI Architect Intern, Deep Intelligence — Sydney (Part Time)
 </p>
 
