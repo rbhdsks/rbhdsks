@@ -1,8 +1,7 @@
 <h1 align="center">Nitesh Kumar Shah</h1>
 
 <p align="center">
-M.Tech (Data Science & AI), IIT Madras (2025–2027)  
-B.Tech (IT – Business Informatics), IIIT Allahabad (2021–2025)  
+Grad @ IIT MADRAS 
 AI Architect Intern, Deep Intelligence — Sydney (Part Time)
 </p>
 
