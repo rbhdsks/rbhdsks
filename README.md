@@ -20,7 +20,7 @@ Generative Models • Medical Imaging • Financial AI
 Generative adversarial modeling for adverse weather augmentation.
 
 **Enhancing Stock Market Strategies with Sentiment & Stress Indices**  
-Best Paper Award — International Conference on Behavioural Finance (2024)
+International Conference on Behavioural Finance (2024)
 
 **Bluetooth Security Audit Framework** — Computers & Security (Elsevier, Q1)  
 Systematic vulnerability analysis for IoT Bluetooth stacks.
