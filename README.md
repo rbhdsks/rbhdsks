@@ -2,7 +2,7 @@
 
 <p align="center">
 Grad @ IIT MADRAS | 
-AI Architect Intern, Deep Intelligence — Sydney (Part Time-Remote)
+AI Architect Intern, Deep Intelligence, Sydney (Part Time-Remote)
 </p>
 
 
