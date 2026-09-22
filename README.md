@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Nitesh :)</h1>
+<h1 align="center">Hii, I'm Nitesh Shah. :)</h1>
 
 <p align="center">
 Grad @ IIT MADRAS | 
