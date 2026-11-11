@@ -4,22 +4,27 @@
 
 <p align="center">
   <a href="https://www.niteshkumarshah.com.np">Website</a> &nbsp;·&nbsp;
-  <a href="#research">Research</a> &nbsp;·&nbsp;
-  <a href="#selected-engineering">Engineering</a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=hgJWNAUAAAAJ&amp;hl=en">Google Scholar</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/niteshkumarshah">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="#publications">Publications</a> &nbsp;·&nbsp;
+  <a href="#cybersecurity">Cybersecurity</a> &nbsp;·&nbsp;
+  <a href="#recent-pull-requests">Recent PRs</a> &nbsp;·&nbsp;
   <a href="https://rbhdsks.github.io/Lowrankcdmexplorer/#matrix">Interactive lab ↗</a>
 </p>
 
-I'm **Nitesh**, an M.Tech student in **Data Science & Artificial Intelligence at IIT Madras**, with a B.Tech in Information Technology from **IIIT Allahabad**.
+## About me
 
-I study how we can learn preferences from observed choices, and how context changes those choices. Alongside my research, I build interactive explanations, local AI tools, and machine-learning systems.
+I'm **Nitesh**, an M.Tech student in **Data Science & Artificial Intelligence at IIT Madras**, with a B.Tech in Information Technology (Business Informatics) from **IIIT Allahabad**.
+
+I study how we can learn preferences from observed choices, and how context changes those choices. I also build interactive ML tools and work on Bluetooth and IoT security.
 
 **Currently:** working on preference learning with **Prof. Suryanarayana Sankagiri**—from Bradley–Terry models to full and low-rank context-dependent models.
 
 ---
 
-## Research
+## M.Tech thesis
 
-### Learning from comparison data
+### Learning from Comparison Data
 
 **What can observed choices tell us about the preferences behind them?**
 
@@ -75,6 +80,37 @@ The browser lab uses small educational experiments; its outputs are not the orig
 
 ---
 
+## Publications
+
+[**Google Scholar profile ↗**](https://scholar.google.com/citations?user=hgJWNAUAAAAJ&hl=en)
+
+| Publication | Venue | Links |
+| :--- | :--- | :--- |
+| **RainGAN-Kathmandu:** A Generative Adversarial Framework for Synthetic Rainfall Augmentation in Urban Road Scene Datasets | IEEE TENCON, 2025 · First author | [Paper](https://doi.org/10.1109/TENCON66050.2025.11374935) · [Code](https://github.com/rbhdsks/RainGAN) |
+| **A Comprehensive Bluetooth Security Audit Framework for IoT Devices** | Computers & Security, 2026 · Co-author | [Paper](https://doi.org/10.1016/j.cose.2026.104840) |
+| **Novel Adaptation of the UNIT Framework for Cross-Domain Climate Data Translation with Enhanced Feature Preservation** | International Conference on Signal Processing and Integrated Networks, 2025 · First author | [Scholar record](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hgJWNAUAAAAJ&citation_for_view=hgJWNAUAAAAJ:8k81kl-MbHgC) |
+| **An Efficient ADAS Framework for Cross-Domain Image Translation and Feature Preservation Utilizing CycleGAN** | 2025 · Co-author | [Scholar record](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hgJWNAUAAAAJ&citation_for_view=hgJWNAUAAAAJ:MXK_kJrjxJIC) |
+| **Integrating FinBERT Sentiment with Financial Stress for Optimized Portfolio Performance** | Academy of Marketing Studies Journal, 2025 · Co-author | [Scholar record](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hgJWNAUAAAAJ&citation_for_view=hgJWNAUAAAAJ:kNdYIx-mwKoC) |
+
+---
+
+## Recent pull requests
+
+<!-- recent-pull-requests:start -->
+- [updated the ppt part](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/104) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Merged · 11 Nov 2026
+- [Complete Phase I viva slides](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/103) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Open · 11 Nov 2026
+- [updated the phase1\.tex part till cdm recovery](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/102) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Merged · 10 Nov 2026
+- [Docs/add overleaf thesis](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/101) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Merged · 10 Nov 2026
+- [docs: save local thesis changes](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/100) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Merged · 09 Nov 2026
+- [Docs/add overleaf thesis](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/99) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Merged · 08 Nov 2026
+- [kept some outputs to archive](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/98) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Merged · 07 Nov 2026
+- [Feature/context dependent models](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-/pull/97) on [`rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-`](https://github.com/rbhdsks/Learning-from-Comparison-Data-Master-Thesis-Project-) · Merged · 07 Nov 2026
+<!-- recent-pull-requests:end -->
+
+[All my public pull requests ↗](https://github.com/pulls?q=is%3Apr+is%3Apublic+author%3Arbhdsks+sort%3Acreated-desc)
+
+---
+
 ## Selected engineering
 
 ### 01 / Road damage detection
@@ -100,13 +136,15 @@ The prototype supports local chat. Document retrieval, persistent conversations,
 
 </details>
 
-### 03 / Bluetooth packet analysis
+---
 
-Tools for inspecting Bluetooth communication and identifying encryption-related packets, developed through security-analysis work during the **C3iHub fellowship**.
+## Cybersecurity
 
-`Python` · `Pyshark` · `Bluetooth protocols` · `Linux`
+### Bluetooth and IoT security
 
-[Explore the project →](https://github.com/rbhdsks/Encryption-checker-Bluetooth)
+During my **C3iHub fellowship at IIT Kanpur**, I used Python and Pyshark to inspect Bluetooth HCI traffic and identify encryption-related packets. I co-authored a paper in *Computers & Security* on auditing Bluetooth-enabled IoT devices, contributing software, validation, visualization, and methodology.
+
+[Bluetooth packet analysis code ↗](https://github.com/rbhdsks/Encryption-checker-Bluetooth) · [Read the paper ↗](https://doi.org/10.1016/j.cose.2026.104840)
 
 ---
 
@@ -121,9 +159,7 @@ Tools for inspecting Bluetooth communication and identifying encryption-related 
 
 ## Connect
 
-I'm interested in conversations about **preference learning, context-dependent choice, reproducible ML, and practical AI systems**.
-
-[Visit my website ↗](https://www.niteshkumarshah.com.np) &nbsp;·&nbsp; [Browse my repositories ↗](https://github.com/rbhdsks?tab=repositories)
+I'm best reached via [email](mailto:sirali.nitesh@gmail.com), [GitHub](https://github.com/rbhdsks), or [LinkedIn](https://www.linkedin.com/in/niteshkumarshah).
 
 ---
 

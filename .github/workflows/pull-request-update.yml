@@ -1,17 +1,33 @@
-name: Update Pull Requests
+name: Update Recent Pull Requests
 
 on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-pull-requests
+
 jobs:
   update-readme:
+    if: github.repository == 'rbhdsks/rbhdsks'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "pull-requests"
-          feed_list: "https://github.com/rbhdsks.atom"
+      - uses: actions/checkout@v4
+      - name: Refresh recent public pull requests
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 .github/update-recent-prs.py
+      - name: Commit README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git commit -m 'Update recent pull requests'
+          git push
